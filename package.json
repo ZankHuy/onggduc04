@@ -1,0 +1,9 @@
+{
+  "name": "creative-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/portal-motion.mjs && node tests/portfolio-data.mjs && node tests/film-motion.mjs && node tests/content-alignment.mjs",
+    "start": "node serve.mjs --open"
+  }
+}

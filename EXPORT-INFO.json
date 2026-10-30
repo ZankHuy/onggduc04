@@ -1,0 +1,7 @@
+{
+  "website": "https://onggduc04.io.vn/",
+  "version": 12,
+  "source_commit": "e16e135eb61c6b43dba1bb4924021d0b6da3d4b5",
+  "exported_on": "2026-10-30",
+  "notes": "Website runtime files in dist are byte-for-byte copies of the saved source. The local server and launchers are export-only additions."
+}
